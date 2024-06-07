@@ -17,6 +17,7 @@ nav a {
   margin: 0 1rem;
 }
 
+
 .results, .bookshelf {
   display: flex;
   flex-wrap: wrap;
@@ -34,8 +35,6 @@ nav a {
 
 .book-card button {
   margin-top: 1rem;
+  cursor: pointer;
 }
 
-input{
-  font-size: 20px;
-}

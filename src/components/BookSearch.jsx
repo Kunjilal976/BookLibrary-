@@ -24,7 +24,7 @@ const BookSearch = ({ addToBookshelf }) => {
                 type="text" 
                 placeholder="Search for a book" 
                 value={query} 
-                onChange={handleSearch} 
+                onChange={handleSearch}
             />
             <div className="results">
                 {results.map(book => (
