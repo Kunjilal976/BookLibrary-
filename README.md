@@ -2,11 +2,11 @@
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository:ssh
+git clone https://github.com/Kunjilal976/BookLibrary-
+   
+2. cd booklibrary
 
-   git clone https://github.com/Kunjilal976/BookLibrary-
-   cd booklibrary
+3. npm install
 
-2. npm install
-
-3. npm start
+4. npm start
