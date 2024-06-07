@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Clone the repository:ssh
+1. Clone the repository:
 git clone https://github.com/Kunjilal976/BookLibrary-
    
 2. cd booklibrary
